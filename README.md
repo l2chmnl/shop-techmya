@@ -76,7 +76,7 @@
 
 
 ## 📑상세 다이어그램 및 기획 문서 노션
-  🔗[테크먀-켓 노션](https://www.notion.so/coffit23/3-3355ABC-c26bbee54bbf44fd86fc559fd41e5981?pvs=4)
+  🔗[테크먀-켓 노션]([https://www.notion.so/coffit23/3-3355ABC-c26bbee54bbf44fd86fc559fd41e5981?pvs=4](https://www.notion.so/coffit23/1-TECHMYA-CAT-5952080481e34f45b226e3aed24d8055))
 * [ERD](https://www.notion.so/coffit23/ERD-dd0a633005d84a369d7bb7646868bebb)
 * [TEST CASE](https://www.notion.so/coffit23/TEST-CASE-794dbaf902654990aa8641309e937833)
 
